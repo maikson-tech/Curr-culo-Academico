@@ -1,2 +1,2 @@
-# Curr-culo-Academico
+# Curriculo Academico
 Tudo sobre mim.
